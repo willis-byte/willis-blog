@@ -5,3 +5,4 @@
 - Spring框架
   - [初识Spring框架](spring/初始Spring框架.md)
   - [Quartz+Redisson+Springboot](spring/Quart+Redisson+Springboot.md)
+  - [动态配置注解](spring/动态配置注解.md)
